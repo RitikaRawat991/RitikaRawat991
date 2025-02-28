@@ -1,4 +1,4 @@
-## **HI, I AM RITIKA RAWAT**
+# **HI, I AM RITIKA RAWAT**
 <br>
 <br>
 I am a passionate coder who came into this field in 2021
